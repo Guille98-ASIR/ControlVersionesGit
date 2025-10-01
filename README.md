@@ -16,21 +16,21 @@
 
 ## Referencias
 
-[Página Oficial de git:](https://git-scm.com/)
+[Página Oficial de git](https://git-scm.com/)
 
-[Documentación oficial de git:](https://git-scm.com/docs)
+[Documentación oficial de git](https://git-scm.com/docs)
 
-[Libro en español de git:](https://git-scm.com/book/es/v2)
+[Libro en español de git](https://git-scm.com/book/es/v2)
 
-[Resumen git:](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/)
+[Resumen git](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/)
 
-[Página oficial de Markdown:](https://markdown.es/)
+[Página oficial de Markdown](https://markdown.es/)
 
-[Página oficial de Github:](https://github.com/)
+[Página oficial de Github](https://github.com/)
 
-[Documentación oficial de Github:](https://docs.github.com/es)
+[Documentación oficial de Github](https://docs.github.com/es)
 
-[Ayuda a GitHub:](https://support.github.com/)
+[Ayuda a GitHub](https://support.github.com/)
 
 ## Autores
 
