@@ -18,6 +18,8 @@ Esta todo en un único servidor que contiene los archivos, y los colaboradores s
 
 Los colaboradores a parte de descargar archivos, también replican el repositorio, por si ocurriera un fallo y un servidor muere, se puede restaurar sin problema.
 
+## Git
+
 Git es una herramienta rápida, eficiente y moderna para el control de versiones de proyectos para archivos. Permite flujos de trabajo distribuídos para no tener uno solo central. El creador de Git fue Linus Torvalds por las necesidades de kernel, gracias a el se ha creado una herramienta de gran ayuda para la comunidad.
 
 <p align="center">
