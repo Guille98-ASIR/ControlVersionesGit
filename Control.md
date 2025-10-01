@@ -8,4 +8,6 @@ Hay de 3 tipos: locales, centralizados y distribuidos.
 
 Git es una herramienta rápida, eficiente y moderna para el control de versiones de proyectos para archivos. Permite flujos de trabajo distribuídos para no tener uno solo central. El creador de Git fue Linus Torvalds por las necesidades de kernel, gracias a el se ha creado una herramienta de gran ayuda para la comunidad.
 
-![si](img/giphy.gif)
+<p align="center">
+  <img src="img/giphy.gif" alt="![economia](img/giphy.gif)"/>
+</p>
