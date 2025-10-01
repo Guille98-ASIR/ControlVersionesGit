@@ -12,3 +12,6 @@ Markdown es un **lenguaje de marcado** que permite dar formato a textos de maner
 | Typora            | Multiplataforma (Win, Mac, Linux) | Interfaz limpia, vista unificada, soporta tablas y diagramas        | De pago (con prueba gratuita)         |
 | Dillinger         | Online                            | Editor web sencillo, sincronización con Dropbox y Google Drive      | Gratuito                              |
 | StackEdit.io      | Online                            | Editor avanzado, colaboración, soporte MathJax y diagramas          | Gratuito                              |
+
+
+![markdown](markdown_inte-1024x630.png)
