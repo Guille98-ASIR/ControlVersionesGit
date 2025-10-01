@@ -9,3 +9,13 @@
 [4.-Repositorio: Github](Repositorio.md)
 
 [5.-Conceptos básicos Git/GitHub](Conceptos.md)
+
+## Referencias
+
+## Autores
+
+[GCR](https://github.com/Guille98-ASIR)
+
+[IBL](https://github.com/IvanBL8)
+
+[ABM](https://github.com/PolloperaSativo)
