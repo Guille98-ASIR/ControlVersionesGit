@@ -15,3 +15,5 @@ publicarlo en una página web.
 ## GitHub: 
 Es una plataforma web para alojar proyectos que usa Git como herramienta de
 control de versiones. Almacena tanto documentación como software.
+
+![Control](/img/controlversiones.png)
