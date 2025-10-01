@@ -10,6 +10,10 @@
 
 [5.-Conceptos básicos Git/GitHub](Conceptos.md)
 
+<p align="center">
+  <img src="/img/tux.gif" alt="![economia](/img/tux.gif)"/>
+</p>
+
 ## Referencias
 
 [Página Oficial de git:](https://git-scm.com/)
