@@ -1,6 +1,6 @@
 
 ## 5. Conceptos básicos: Git / GitHub
-![Basics](Basics.gif)
+![Basics](img/Basics.gif)
 ### 📂 Repositorio
 Un **repositorio** es como una carpeta donde se encuentran los archivos de tu proyecto:  
 - Código  
