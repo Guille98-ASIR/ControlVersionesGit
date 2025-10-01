@@ -14,4 +14,4 @@ Markdown es un **lenguaje de marcado** que permite dar formato a textos de maner
 | StackEdit.io      | Online                            | Editor avanzado, colaboración, soporte MathJax y diagramas          | Gratuito                              |
 
 
-![markdown](markdown_inte-1024x630.png)
+[markdown](markdown_inte-1024x630.png)
