@@ -32,6 +32,10 @@
 
 [Ayuda a GitHub](https://support.github.com/)
 
+<p align="center">
+  <img src="/img/si.jpg" alt="![economia](/img/si.jpg)"/>
+</p>
+
 ## Autores
 
 [GCR](https://github.com/Guille98-ASIR)
